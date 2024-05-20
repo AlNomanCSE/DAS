@@ -18,3 +18,11 @@ function factorialBigInt(n: number): bigint {
 }
 
 console.log(factorialBigInt(100).toString());
+
+//?  #3 ---------Itative way using recursion---------?//
+function recursiveFactorial(n: number): bigint {
+  if (n == 0 || n == 1) return 1n;
+  else return BigInt(n) * recursiveFactorial(n - 1);
+}
+
+console.log(recursiveFactorial(50).toString());
