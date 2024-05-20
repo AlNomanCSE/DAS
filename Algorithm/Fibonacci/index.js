@@ -5,7 +5,7 @@ function fibonacchi(n) {
     var fib = [0];
     if (n > 1) {
         fib[1] = 1;
-        for (var i = 2; i <= n; i++) {
+        for (var i = 2; i < n; i++) {
             fib[i] = fib[i - 1] + fib[i - 2];
         }
     }
