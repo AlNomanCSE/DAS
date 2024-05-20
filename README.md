@@ -4,6 +4,16 @@
 
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230807133054/Data-structure-algorithm.png" alt="Random Image" width="100%">
 
+<h2 align="center">🚦Recommendations</h2>
+
+- Beginners: If you are new to programming or data structures, Python might be the best choice due to its simplicity and readability.
+
+- Web Developers: If you are already familiar with JavaScript or work in web development, TypeScript is an excellent choice.
+
+- Performance and Systems Programming: For a deeper understanding of how data structures work at a low level, C++ is a strong candidate.
+
+- Academic and Enterprise Applications: Java is a solid choice, especially if you plan to work in enterprise environments or are following a traditional computer science curriculum.
+
 <p align="center">
 <h2>Data structure Types</h2>
 
@@ -13,21 +23,22 @@
 
 <h2>Algorithm Types</h2>
 
-<img src="https://cdn.ttgtmedia.com/rms/onlineimages/types_of_algorithms-f.png" width="100%">
+- <img src="https://cdn.ttgtmedia.com/rms/onlineimages/types_of_algorithms-f.png" width="100%">
 
 - [This reference link](https://www.lavivienpost.com/algorithms-types-and-algorithm-examples/)
   <img src="https://www.lavivienpost.com/wp-content/uploads/2022/07/algorithms1.jpg" width="100%">
 
 </p>
  
-<h2 id="technologies">💻 Programming Language</h2>
+<h2 id="technologies" align="center">💻 Programming Language</h2>
 
 - Typescript
 
-<h2 id="started">🚀 Getting started</h2>
+<h2 id="started" align="center">🚀 Getting started</h2>
 
 Go specific folder ---->
 
 ```bash
-node JSfileName
+tsc <TSfilname>
+node <JSfileName>
 ```
