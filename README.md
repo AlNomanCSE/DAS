@@ -70,3 +70,13 @@ node <JSfileName>
 }
 
 ```
+
+<h1 id="started" align="center">DP</h1>
+<p>Dynamic Programming (DP) is a powerful technique used in computer science and mathematics to solve problems <em style="color:red;">by breaking them down into simpler subproblems</em>. It is particularly useful for solving optimization problems, where the goal is to find the best solution according to some criteria.</p>
+
+- ### Optimal Substructure:
+
+  <em style="color:blue;">A problem has an optimal substructure if an optimal solution to the problem contains optimal solutions to its subproblems</em>. This means you can break down the problem into smaller problems, solve each smaller problem once, and use their solutions to construct the solution to the original problem.
+
+- ### Overlapping Subproblems:
+  <em style="color:blue;">A problem has overlapping subproblems if solving it involves solving the same subproblems multiple times</em>. DP takes advantage of this by solving each subproblem once and storing its solution, typically in an array or a hash table, to avoid redundant computations.
