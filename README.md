@@ -21,11 +21,18 @@
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220520182504/ClassificationofDataStructure-660x347.jpg" width="100%">
 
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20221124153129/Treedatastructure.png" width="100%">
+
+- [🚨Link](https://www.enjoyalgorithms.com/tags/data-structures/)
+  <img src="https://cdn-images-1.medium.com/max/800/1*dX9TdlR6wD5lkPnWG1h80g.png" width="100%">
+
 <h2>Algorithm Types</h2>
+
+--- [Importent Github Link](https://github.com/tayllan/awesome-algorithms?tab=readme-ov-file)
 
 - <img src="https://cdn.ttgtmedia.com/rms/onlineimages/types_of_algorithms-f.png" width="100%">
 
-- [This reference link](https://www.lavivienpost.com/algorithms-types-and-algorithm-examples/)
+- [🚨Link](https://www.lavivienpost.com/algorithms-types-and-algorithm-examples/)
   <img src="https://www.lavivienpost.com/wp-content/uploads/2022/07/algorithms1.jpg" width="100%">
 
 </p>
@@ -36,9 +43,28 @@
 
 <h2 id="started" align="center">🚀 Getting started</h2>
 
-Go specific folder ---->
+- Go specific folder ---->
 
 ```bash
 tsc <TSfilname>
 node <JSfileName>
+```
+
+- tsconfig.json:
+
+```ts
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "lib": ["es2020", "dom"],
+    "strict": true,
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src"]
+}
+
 ```
