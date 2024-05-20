@@ -1,6 +1,10 @@
 <h1 align="center" style="font-weight: bold;">DSA🎯</h1>
 
-<h2 id="layout" align="center"> Data structure Vs Alogorithm </h2>
+<h2 id="layout" align="center"> Data structure Vs Alogorithm  </h2>
+
+- [🔥Importent Link for Data Structure Visualizations 🔥](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [🔥Algorithm Visualize 🔥](https://algorithm-visualizer.org/)
+- [🔥visualgo🔥](https://visualgo.net/en)
 
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230807133054/Data-structure-algorithm.png" alt="Random Image" width="100%">
 
@@ -27,8 +31,6 @@
   <img src="https://cdn-images-1.medium.com/max/800/1*dX9TdlR6wD5lkPnWG1h80g.png" width="100%">
 
 <h2>Algorithm Types</h2>
-
---- [Importent Github Link](https://github.com/tayllan/awesome-algorithms?tab=readme-ov-file)
 
 - <img src="https://cdn.ttgtmedia.com/rms/onlineimages/types_of_algorithms-f.png" width="100%">
 
