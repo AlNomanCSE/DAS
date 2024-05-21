@@ -32,6 +32,16 @@
 
 <h2>Algorithm Types</h2>
 
+- <p> Bit manipulation tasks </p>
+
+<div  width="100%" align="center" style="display:flex">
+<img src="https://cdn2.slideserve.com/3889261/bit-manipulation-in-c-n.jpg" width="50%">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20220922145839/BItwiseoperatortruthtable-300x197.png" width="50%">
+</div>
+<img src="https://www.electronics-lab.com/wp-content/uploads/2022/07/sign_and_magnitude.png" width="100%">
+</div>
+</br>
+
 - <img src="https://cdn.ttgtmedia.com/rms/onlineimages/types_of_algorithms-f.png" width="100%">
 
 - [🚨Link](https://www.lavivienpost.com/algorithms-types-and-algorithm-examples/)
