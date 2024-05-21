@@ -38,7 +38,7 @@
 <img src="https://cdn2.slideserve.com/3889261/bit-manipulation-in-c-n.jpg" width="50%">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220922145839/BItwiseoperatortruthtable-300x197.png" width="50%">
 </div>
-<img src="https://www.electronics-lab.com/wp-content/uploads/2022/07/sign_and_magnitude.png" width="100%">
+<img src="https://www.electronics-lab.com/wp-content/uploads/2022/07/sign_and_magnitude.png" width="50%" >
 </div>
 </br>
 
