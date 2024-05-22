@@ -34,11 +34,16 @@
 
 - <p> Bit manipulation tasks </p>
 
-<div  width="100%" align="center" style="display:flex">
+<div  width="100%" style="display:flex">
+
 <img src="https://cdn2.slideserve.com/3889261/bit-manipulation-in-c-n.jpg" width="50%">
+
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220922145839/BItwiseoperatortruthtable-300x197.png" width="50%">
+
 </div>
-<img src="https://www.electronics-lab.com/wp-content/uploads/2022/07/sign_and_magnitude.png" width="50%" >
+<div  align="center" style="background:green">
+<img src="https://www.electronics-lab.com/wp-content/uploads/2022/07/sign_and_magnitude.png" width="60%" >
+
 </div>
 </br>
 
@@ -89,4 +94,9 @@ node <JSfileName>
   <em style="color:blue;">A problem has an optimal substructure if an optimal solution to the problem contains optimal solutions to its subproblems</em>. This means you can break down the problem into smaller problems, solve each smaller problem once, and use their solutions to construct the solution to the original problem.
 
 - ### Overlapping Subproblems:
+
   <em style="color:blue;">A problem has overlapping subproblems if solving it involves solving the same subproblems multiple times</em>. DP takes advantage of this by solving each subproblem once and storing its solution, typically in an array or a hash table, to avoid redundant computations.
+
+<div align="center">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20220914114911/DynamicProgramming1.jpg" width="60%">
+</div>
