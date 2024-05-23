@@ -87,7 +87,7 @@ node <JSfileName>
 ```
 
 <h1 id="started" align="center">DP</h1>
-<p>Dynamic Programming (DP) is a powerful technique used in computer science and mathematics to solve problems <em style="color:red;">by breaking them down into simpler subproblems</em>. It is particularly useful for solving optimization problems, where the goal is to find the best solution according to some criteria.</p>
+<p>Dynamic Programming (DP) is a powerful technique used in computer science and mathematics to solve problems <em style="color:red">by breaking them down into simpler subproblems</em>. It is particularly useful for solving optimization problems, where the goal is to find the best solution according to some criteria.</p>
 
 - ### Optimal Substructure:
 
