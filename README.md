@@ -86,6 +86,133 @@ node <JSfileName>
 
 ```
 
+<h1 id="started" align="center">Algorithm</h1>
+
+ <h1>Searching:🎈</h1>
+
+1. Good for Recursion:
+
+   - Binary Search
+   - Depth First Search (DFS)
+
+2. Not Good for Recursion:
+   - Linear Search
+   - Breadth First Search (BFS)
+   - Rabin-Karp Algorithm
+   - Z Algorithm
+
+ <h1>Sorting:🎎</h1>
+
+1. Good for Recursion:
+
+   - Merge Sort
+   - Quick Sort
+
+2. Not Good for Recursion:
+
+   - Insertion Sort
+   - Heap Sort
+   - Selection Sort
+   - Counting Sort
+   - Bucket Sort
+   - Bubble Sort
+   - Radix Sort
+   - Shell Sort
+   - Comb Sort
+   - Pigeonhole Sort
+   - Cycle Sort
+
+ <h1>Graphs:🎡 </h1>
+
+1. Good for Recursion:
+
+   - Topological Sort Algorithm
+   - Flood Fill Algorithm
+   - Kosaraju's Algorithm
+   - Tarjan's Algorithm
+
+2. Not Good for Recursion:
+
+   - Kruskal's Algorithm
+   - Dijkstra's Algorithm
+   - Bellman-Ford Algorithm
+   - Floyd-Warshall Algorithm
+   - Lee Algorithm
+   - Prim's Algorithm
+   - Boruvka's Algorithm
+   - Johnson's Algorithm
+
+ <h1>Arrays: 🎲</h1>
+
+1. Good for Recursion:
+
+   - Quick Select Algorithm
+
+2. Not Good for Recursion:
+
+   - Kadane's Algorithm
+   - Floyd's Cycle Detection Algorithm
+   - Knuth-Morris-Pratt Algorithm (KMP)
+   - Boyer-Moore Majority Vote Algorithm
+
+ <h1>Tree:🎄🎋 </h1>
+
+1. Good for Recursion:
+
+   - Quadtree
+   - Cartesian Tree
+   - Scapegoat Tree
+   - Splay Tree
+   - Binary Space Partitioning
+
+2. Not Good for Recursion:
+
+   - AA Tree
+   - Binary Indexed Tree or Fenwick Tree
+   - Fibonacci heap
+   - Interval Tree
+   - Finger Tree
+   - Crit-bit Trees
+   - Suffix Tree
+   - Counted B-Trees
+   - Van Emde Boas Tree
+
+ <h1>Others:✨🎆 </h1>
+
+1. Good for Recursion:
+
+   - Huffman Coding Compression Algorithm
+   - Euclid's Algorithm
+   - Eulerian Path (Hierholzer's Algorithm)
+   - Convex Hull | Set 1 (Jarvis’s Algorithm or Wrapping)
+   - Convex Hull using Divide and Conquer Algorithm
+   - Quickhull Algorithm for Convex Hull
+   - Ackermann Function
+
+2. Not Good for Recursion:
+
+   - Union Find Algorithm
+   - Manacher's Algorithm
+   - Convex Hull | Set 2 (Graham Scan)
+   - Distinct elements in subarray using Mo’s Algorithm
+   - Line Sweep Algorithm
+   - MO’s Algorithm (Query square root decomposition)
+   - Disjoint-set Data Structure
+   - Zobrist Hashing
+   - FM-index
+   - Circular buffer
+   - Hungarian Algorithm / Kuhn–Munkres Algorithm / Munkres Assignment Algorithm
+   - Dekker's Algorithm
+   - Winged Edge
+   - Burrows–Wheeler Transform
+   - Zipper
+   - Five Balltree Construction Algorithms
+   - Cuckoo Hashing
+   - Rope (Data Structure)
+   - Binary Decision Diagram
+   - Disjoint-set Data Structure
+   - Bloom Filter
+
 <h1 id="started" align="center">DP</h1>
 <p>Dynamic Programming (DP) is a powerful technique used in computer science and mathematics to solve problems <em style="color:red">by breaking them down into simpler subproblems</em>. It is particularly useful for solving optimization problems, where the goal is to find the best solution according to some criteria.</p>
 
@@ -100,3 +227,33 @@ node <JSfileName>
 <div align="center">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220914114911/DynamicProgramming1.jpg" width="60%">
 </div>
+
+<h3>Good for Recursion (Top-Down DP / Memoization):</h3>
+
+- Fibonacci Sequence - Combinatorial DP
+- Longest Increasing Subsequence (LIS) - Sequence DP
+- Longest Common Subsequence (LCS) - Sequence DP
+- Edit Distance - Sequence DP
+- Matrix Chain Multiplication - Optimization DP
+- Rod Cutting Problem - Optimization DP
+- Coin Change Problem (number of ways) - Combinatorial DP
+- Binomial Coefficients - Combinatorial DP
+- Palindrome Partitioning - Sequence DP
+- Word Break Problem - Sequence DP
+- Subset Sum Problem - Subset DP
+- Partition Problem - Subset DP
+- Ways to Cover a Distance - Combinatorial DP
+
+<h3>Not Ideal for Recursion (Bottom-Up DP / Tabulation):</h3>
+
+- 0/1 Knapsack Problem - Optimization DP
+- Unbounded Knapsack Problem - Optimization DP
+- Catalan Numbers - Combinatorial DP
+- Bellman-Ford Algorithm - Optimization DP
+- Floyd-Warshall Algorithm - Optimization DP
+- Longest Path in a Directed Acyclic Graph (DAG) - Optimization DP
+- Game Strategy Problems (e.g., "coins in a line") - Decision DP
+- Maximum Subarray Problem (Kadane's Algorithm) - Optimization DP
+- Largest Square Sub-matrix with All 1s - Geometric DP
+- Maximum Sum Rectangle in a 2D Matrix - Geometric DP
+- Probability of a Specific Sequence of Events - Combinatorial DP
